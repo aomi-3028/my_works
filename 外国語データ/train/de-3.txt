@@ -1,0 +1,26 @@
+Geschichte, Entwicklung und Verwendung
+Die Group method of data handling-KNNs (GMDH-ANN) der 1960er-Jahre von Oleksij Iwachnenko waren die ersten Deep-Learning-Systeme des Feedforward-Multilayer-Perzeptron-Typs.[9][10][11] Weitere Deep-Learning-Ansätze, vor allem aus dem Bereich des maschinellen Sehens, begannen mit dem Neocognitron, das von Kunihiko Fukushima 1980 entwickelt wurde. Im Jahr 1989 verwendeten Yann LeCun und Kollegen den Backpropagation-Algorithmus für das Training mehrschichtiger KNNs, mit dem Ziel, handgeschriebene Postleitzahlen zu erkennen.[12] Sven Behnke hat seit 1997 in der Neuronalen Abstraktionspyramide[13] den vorwärtsgerichteten hierarchisch-konvolutionalen Ansatz durch seitliche und rückwärtsgerichtete Verbindungen erweitert, um so flexibel Kontext in Entscheidungen einzubeziehen und iterativ lokale Mehrdeutigkeiten aufzulösen.
+
+Der Begriff „Deep Learning“ wurde im Kontext des maschinellen Lernens erstmals 1986 von Rina Dechter verwendet, wobei sie hiermit ein Verfahren bezeichnet, bei dem alle verwendeten Lösungen eines betrachteten Suchraums aufgezeichnet werden, die zu keiner gewünschten Lösung geführt haben. Die Analyse dieser aufgezeichneten Lösungen soll es ermöglichen anschließende Versuche besser zu steuern und somit mögliche Sackgassen in der Lösungsfindung frühzeitig zu verhindern.[14] Heutzutage wird der Begriff jedoch vorwiegend im Zusammenhang mit künstlichen neuronalen Netzen verwendet und tauchte in diesem Kontext erstmals im Jahr 2000 auf, in der Veröffentlichung Multi-Valued and Universal Binary Neurons: Theory, Learning and Applications von Igor Aizenberg und Kollegen.[15][16][17]
+
+Die jüngsten Erfolge von Deep Learning Methoden, wie der Go-Turniergewinn des Programmes AlphaGo gegen die weltbesten menschlichen Spieler, gründen sich neben der gestiegenen Verarbeitungsgeschwindigkeit der Hardware auf den Einsatz von Deep Learning zum Training des in AlphaGo verwendeten neuronalen Netzes.[18] Gleiches gilt für die seit 2020 gelungene Vorhersage von Protein-Faltungen.[19] Diese Netze nutzen künstlich erzeugte Neuronen (Perzeptron), um Muster zu erkennen.
+
+Für Beiträge zu neuronalen Netzwerken und Deep Learning erhielten Yann LeCun, Yoshua Bengio und Geoffrey Hinton 2018 den Turing Award.[20]
+
+Komplexität und Grenzen der Erklärbarkeit
+Tiefe neuronale Netze können eine Komplexität von bis zu hundert Millionen einzelnen Parametern und zehn Milliarden Rechenoperationen pro Eingangsdatum aufweisen. Die Interpretierbarkeit der Parameter und Erklärbarkeit des Zustandekommens der Ergebnisse ist hier nur noch eingeschränkt möglich und erfordert den Einsatz spezieller Techniken, die unter Explainable Artificial Intelligence zusammengefasst werden. Eine weitere Begleiterscheinung des Deep Learning ist die Anfälligkeit für Falschberechnungen, die durch subtile, bei zum Beispiel Bildern für Menschen nicht sichtbare, Manipulationen der Eingabesignale ausgelöst werden können. Dieses Phänomen wird unter Adversarial Examples zusammengefasst.[21]
+
+Programmbibliotheken
+Neben der meist in Schulungsbeispielen zum Verständnis der internen Struktur vorgestellten Möglichkeit, ein neuronales Netz komplett eigenhändig zu programmieren, gibt es eine Reihe von Softwarebibliotheken,[22] häufig Open Source, lauffähig auf meist mehreren Betriebssystemplattformen, die in gängigen Programmiersprachen wie zum Beispiel C, C++, Java oder Python geschrieben sind. Einige dieser Programmbibliotheken unterstützen GPUs oder TPUs zur Rechenbeschleunigung oder stellen Tutorials zur Benutzung dieser Bibliotheken bereit. Mit ONNX können Modelle zwischen einigen dieser Tools ausgetauscht werden.
+
+TensorFlow (Python, JavaScript, C++, Java, Go, Swift) von Google
+Keras (Python, ab Version 1.4.0 auch in der TensorFlow-API enthalten)[23] – populäres Framework (2018) neben Tensorflow.[24]
+Caffe vom Berkeley Vision and Learning Center (BVLC)
+PyTorch (Python), entwickelt vom Facebook-Forschungsteam für künstliche Intelligenz
+Torch (C, Lua)[25] (Community) und das darauf aufbauende Facebook-Framework Torchnet[26]
+Microsoft Cognitive Toolkit (C++)[27]
+PaddlePaddle (Python) vom Suchmaschinenhersteller Baidu[28][29]
+OpenNN (C++), implementiert ein künstliches neuronales Netz.
+Theano (Python) von der Université de Montréal[30]
+Deeplearning4j (Java) von Skymind
+MXNet von der Apache Software Foundation[31]

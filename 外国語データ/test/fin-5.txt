@@ -1,0 +1,42 @@
+Last.fm
+Siirry navigaatioonSiirry hakuun
+Question book-4.svg
+Tähän artikkeliin tai osioon ei ole merkitty lähteitä, joten tiedot kannattaa tarkistaa muista tietolähteistä.
+Voit auttaa Wikipediaa lisäämällä artikkeliin tarkistettavissa olevia lähteitä ja merkitsemällä ne ohjeen mukaan.
+Last.fm
+Last.fm logo.svg
+Last.fm-software.png
+Verkkosivusto	http://www.last.fm/
+Kaupallinen	Kyllä
+Tyyppi	Internetyhteisö
+Rekisteröinti	Ilmainen
+Omistaja	CBS Interactive
+Kehittäjä	useita
+Avattu	2002
+Nykyinen tila	Aktiivinen
+Last.fm on Isossa-Britanniassa vuonna 2002 perustettu musiikkiyhteisöverkkosivusto ja internet-radiopalvelu, joka pohjautuu omaan tietoliikenneprotokollaansa ja asiakasohjelmaansa. Nykyinen Last.fm on vuonna 2002 perustettu yhdistelmä kahdesta aikaisemmasta projektista, Last.fm-internet-radiosta ja Audioscrobbler-musiikkistatistiikkajärjestelmästä.
+
+Last.fm-ohjelmisto, Last.fm-yhteensopivat mediasoittimet, sekä mediasoittimet joihin on asennettu Last.fm-lisäosa, kirjaavat kaikki yli 30 sekuntia kestoltaan olevat kappaleet, joita käyttäjä kuuntelee radion tai mediasoittimen kautta. Kaikista soitetuista kappaleista lähetetään palveluun kappaleen nimi, albumi ja kappaleen esittäjä; kappaleiden lähetyksen voi kytkeä myös pois päältä.
+
+Sen sijaan että last.fm-radio tarjoaisi pelkkiä ennalta valittuja soittolistoja, kuten monet muut Internet-radioasemat, Last.fm-ohjelman avulla käyttäjä voi kuunnella satunnaista musiikkia eri kriteerien pohjalta, esimerkiksi tietyn artistin musiikkia muistuttavaa musiikkia tai musiikkia, jonka käyttäjät ovat merkinneet tietyillä avainsanoilla ("tag radio").
+
+Lähetettyjen tietojen avulla asema ja sivusto voi myös tarjota musiikkiehdotuksia käyttäjälle. Sivuston kautta käyttäjä voi seurata tilastoja omista ja muiden käyttäjien musiikin kuuntelusta; näihin kuuluvat esimerkiksi viimeaikaiset suosikkikappaleet ja artistit, ja kaikkien aikojen soitetuimmat kappaleet ja artistit. Palvelu myös löytää käyttäjän "musiikilliset naapurit", käyttäjät jotka kuuntelevat samantyyppistä musiikkia, ja pystyy antamaan ehdotuksia käyttäjää mahdollisesti kiinnostavista muista artisteista.
+
+Last.fm-sivustolla käyttäjien on mahdollista perustaa erilaisia käyttäjäryhmiä ja lisätä toisiaan ystäviksi, suositella musiikkia muille käyttäjille, kommentoida musiikkia ja lähettää kommentteja käyttäjille, ja pitää blogia, jonka merkintöihin voi myös linkittää eri artisteihin, albumeihin tai kappaleisiin, jolloin nämä blogimerkinnät näkyvät kyseisillä sivuilla. Sivuston kautta artisteja ja musiikkia voi merkitä avainsanoin (tag), jolloin ne löytyvät radion kautta. Sivustolle voi myös syöttää artistien ja yhtyeiden konserttitietoja. Kyseisten tietojen avulla sivusto suosittelee käyttäjille konsertteja ja festivaaleja heidän musiikkimaustaan ja asuinpaikastaan riippuen.
+
+Levy-yhtiöt ja riippumattomat artistit voivat tarjota musiikkiaan Last.fm:n kautta eri tavoin. Radiosoiton lisäksi palveluun lisätyt kappaleet voi tarjota myös kuunneltavaksi suoraan Last.fm-sivuston kautta, joko 30 sekunnin esittelypätkinä tai kokonaisina kappaleina. Musiikin voi tarjota myös imuroitavaksi kokonaisena MP3-muodossa.
+
+Sivusto on hyvä esimerkki Web 2.0 -tyyppisestä sosiaalisen verkoston luovasta ja yhteydenpitoon kannustavasta web-sivustosta. Viimeaikaiset kuuntelutiedot saa RSS-muodossa, kuvamuodossa (jolloin ne voi näyttää esimerkiksi muilla foorumeilla), sekä muun muassa Facebook, MySpace ja Pigdin-palveluihin integroituna sovelmana.
+
+24.3.2009 annetun ilmoituksen mukaan Last.fm-radion kuuntelu muissa maissa kuin Yhdysvalloissa, Isossa-Britanniassa ja Saksassa muuttuu kuukausimaksuperustaiseksi.
+
+Ohjelmistoja
+Last.fm:n oma radionkuunteluohjelma on saatavilla Windowsille, Mac OS X:lle ja Linuxille, ja ohjelmaa levitetään GNU General Public Licensen alla. Tämä ohjelma myös lähettää automaattisesti eri mediasoittimilla kuunnellut kappaleet Last.fm:ään. Ohjelmiin on myös saatavilla Apple iPod- ja iPhone-tuki. Ohjelman Windows-versio osaa lähettää kappaleet Windows Media Playeristä, Winampista, iTunesista ja foobar2000:sta. OS X -versio tukee iTunesia. Ohjelman radio-osuus toimii Linuxissa, mutta kappaletietojen lähetystä varten Linux vaatii mediasoittimiin joko lisäosan tai suoran tuen.
+
+Last.fm:n kappaletietojen lähetyksen toteutusspesifikaatio on vapaasti saatavilla. Myös muut web-sivustot, esimerkiksi Libre.fm ja Jamendo, pystyvät vastaanottamaan kappaletietoja Last.fm-protokollan avulla. Kaikki Last.fm-asiakasohjelmat eivät kuitenkaan tue muita palveluita kuin Last.fm:ää, mutta joissain ohjelmissa voi jopa lähettää kappaletietoja useammalle sivustolle yhtä aikaa ("multiscrobbling").
+
+Last.fm:ää suoraan tukevia ohjelmistoja ovat muun muassa Amarok, Rhythmbox, Spotify ja Xbox Media Center. Lisäksi moniin mediasoitinohjelmiin on saatavilla tarvittava laajennus. Tällaisia ohjelmia ovat muun muassa AmiScrobbler, Audacious, Beep Media Player, foobar2000, iTunes, J. River Media Center, MPD, Noatun, QCD, SlimScrobbler, Winamp, Windows Media Player ja XMMS. Myös erilaisiin mp3-soittimiin on saatavilla Rockbox-ohjelmisto, jolla voidaan lähettää soitettujen kappaleiden tietoja. Ohjelmisto tukee muun muassa useimpia eri iPod-malleja.
+
+Last.fm-radiokanavia voi Last.fm-radionkuunteluohjelman lisäksi kuunnella ainakin Last Exit -nimisellä ohjelmalla sekä Amarok-mediasoittimella.
+
+Myös Fring tukee Last.fm -palvelua, joka mahdollistaa kuuntelun S60 3rd -puhelimilla. Joillain alueilla Xbox 360 tukee myös Last.fm -palveluita.

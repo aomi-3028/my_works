@@ -1,0 +1,13 @@
+Überwachtes Lernen ist ein Teilgebiet des maschinellen Lernens. Mit Lernen ist dabei die Fähigkeit einer künstlichen Intelligenz gemeint, Gesetzmäßigkeiten nachzubilden. Die Ergebnisse sind durch Naturgesetze oder Expertenwissen bekannt und werden benutzt, um das System anzulernen.
+
+Ein Lernalgorithmus versucht, eine Hypothese zu finden, die möglichst zielsichere Voraussagen trifft. Unter Hypothese ist dabei eine Abbildung zu verstehen, die jedem Eingabewert den vermuteten Ausgabewert zuordnet.[1]
+
+Die Methode richtet sich also nach einer im Vorhinein festgelegten zu lernenden Ausgabe, deren Ergebnisse bekannt sind. Die Ergebnisse des Lernprozesses können mit den bekannten, richtigen Ergebnissen verglichen, also „überwacht“, werden.[2]
+
+Liegen die Ergebnisse der Ausgabe in einer stetigen Verteilung vor, deren Ergebnisse beliebige quantitative Werte eines vorgegebenen Wertebereiches annehmen kann, spricht man meistens von einem Regressionsproblem.[3]
+
+Ein Beispiel für ein solches Regressionsproblem ist die Vorhersage der Preisentwicklung von Häusern auf Basis von bestimmten Variablen oder das Bestimmen des Alters einer Person aus anderen Informationen über die Person. Es geht demnach meistens um Vorhersagen.[3]
+
+Liegen die Ergebnisse hingegen in diskreter Form vor bzw. sind die Werte qualitativ, spricht man von einem Klassifikationsproblem. Ein Beispiel hierfür ist, zu bestimmen, ob es sich bei einer E-Mail um Spam oder keinen Spam handelt.[4]
+
+Dieser folgende Artikel beschreibt das Vorgehen bei der Implementierung von überwachtem Lernen und stellt einige Methoden zur Lösung von Regressionsproblemen respektive zur Lösung von Klassifikationsproblemen vor.

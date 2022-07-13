@@ -1,0 +1,36 @@
+Ryhmäkanne
+Siirry navigaatioonSiirry hakuun
+Ryhmäkanne on siviilioikeudellinen kanne, jota asianosainen ajaa omissa nimissään asianosaispiiriä laajemman tai kokonaan sen ulkopuolisen ryhmän eduksi siten, että asiassa annettava tuomio tulee kaikkia ryhmän jäseniä sitovaksi. Ryhmän jäsenet ovat tällöin muodollisesti asianosaispiirin ulkopuolella, mutta tuomion oikeusvaikutukset ulottuvat heihin. Ryhmäkanteen käyttöedellytyksenä on, että ryhmän jäsenten oikeudelliset vaatimukset kohdistuvat samaa tahoa vastaan ja perustuvat samoihin tai samankaltaisiin seikkoihin.[1]
+
+Tyypillisiä ryhmäkanteen aiheeksi soveltuvia tapahtumia ovat esimerkiksi vahingollisen tuotteen aiheuttama haitta sekä useiden maanomistajien rantoja tärvelevä öljypäästö. Maissa, joiden lainsäädäntö ei tunne ryhmäkannetta, joutuu jokainen vaatimuksia esittävä taho nostamaan erillisen kanteen, vaikka vaatimukset kohdistuisivat samaan vastaajaan ja nojautuisivat täysin samanlaisiin perusteisiin.
+
+Ryhmäkanne voidaan toteuttaa lainsäädännössä joko siten, että ryhmään kuuluminen edellyttää nimenomaista ryhmään ilmoittautumista (opt-in), tai niin, että kaikki jäsenkriteerit täyttävät henkilöt kuuluvat ryhmään ilman eri ilmoittautumista ja ryhmästä irrottautuminen edellyttää erityistä toimenpidettä (opt-out). Sen mukaan, kuka kannetta ajaa ryhmän puolesta, kanteet jaetaan yksityisiin ryhmäkanteisiin (kanneoikeus on ryhmään kuuluvalla yksityisellä oikeussubjektilla), järjestöryhmäkanteisiin (kanneoikeus on ryhmän etuja valvovalla järjestöllä) ja julkisiin ryhmäkanteisiin (kanneoikeus on viranomaisella).[2]
+
+Ryhmäkanne on muotoutunut anglosaksista common law -oikeusjärjestelmää soveltavissa maissa. Laajimmin ryhmäkanne on käytössä Yhdysvalloissa, missä useimpia siviilioikeudellisia asioita voidaan ajaa ryhmäkanteina. Euroopassa ryhmäkanne on yleensä rajattu kuluttajansuojaan tai ympäristönsuojeluun liittyviin oikeudenkäynteihin. Useimmissa Euroopan maissa ei kuitenkaan ole ryhmäkanteen mahdollistavaa lainsäädäntöä.
+
+
+Sisällys
+1	Ryhmäkanne Suomessa
+1.1	Ryhmäkanteen laajentaminen
+2	Katso myös
+3	Lähteet
+4	Aiheesta muualla
+Ryhmäkanne Suomessa
+Suomen ryhmäkannelaki tuli voimaan vuonna 2007. Laki antaa mahdollisuuden vain kuluttajien ryhmäkanteeseen elinkeinonharjoittajaa vastaan kuluttaja-asiamiehen toimivallan puitteissa. Kanneoikeus on yksin kuluttaja-asiamiehellä ja ryhmään kuuluminen edellyttää kuluttajalta erillistä ilmoittautumista. Kyseessä on siis opt-in-tyyppinen julkinen ryhmäkanne.[3]
+
+Ryhmäkannelain 2 §:n mukaan asia voidaan käsitellä ryhmäkanteena, jos:
+
+useilla henkilöillä on samaa vastaajaa vastaan vaatimuksia, jotka perustuvat samoihin tai samankaltaisiin seikkoihin;
+asian käsittely ryhmäkanteena on tarkoituksenmukaista ottaen huomioon ryhmän koko, asiassa esitettävien vaatimusten sisältö ja asiassa esitettävä todistelu; sekä
+ryhmä on riittävän täsmällisesti määritelty.
+Ryhmäkanteiden käsittely on keskitetty Helsingin käräjäoikeuteen (3 §). Haastehakemuksen käsittely on ryhmäkanneasioissa kaksivaiheinen: tuomioistuin ottaa ensin kantaa ryhmäkanteen edellytyksiin ja ilmoittaa tästä kuluttaja-asiamiehelle, jonka tehtävänä on sen jälkeen ilmoittaa kanteen vireilletulosta ryhmän jäsenille (6 §), kerätä näiltä ilmoitukset ryhmään kuulumisesta (7 §) ja esittää yksilöidyt vaatimukset tuomioistuimelle täsmennetyssä haastehakemuksessa (9 §).
+
+Ryhmään ilmoittautunut jäsen on muodollisesti asianosaispiirin ulkopuolella. Lain 11 §:n mukaan hänet kuitenkin rinnastetaan asianosaiseen sovellettaessa riidan kohteen luovuttamista, tuomarin esteellisyyttä, oikeudenkäynnin vireilläolovaikutuksia, kanteiden yhdistämistä ja kuulemista koskevia oikeudenkäymiskaaren säännöksiä. Ryhmäkanteen johdosta annettu tuomio sitoo asianosaisten (kantajan eli kuluttaja-asiamiehen sekä vastaajan) lisäksi niitä, jotka ovat ilmoittautuneet ryhmän jäseniksi (16 §). Ryhmän jäsenillä on lisäksi itsenäinen muutoksenhakuoikeus ratkaisuun siinä tapauksessa, ettei kuluttaja-asiamies hae muutosta (18 §).
+
+Suomessa ei ole koskaan nostettu ryhmäkannetta.[4]
+
+Ryhmäkanteen laajentaminen
+Ammattiyhdistysliike ajaa ryhmäkanneoikeutta työelämäänkin. Professori Vesa Kanniaisen mukaan ryhmäkanteen tulee ulottua ulkopuolisten vahingonkorvauksiin laittomien lakkojen järjestäjiltä, koska näissä usein vahingonkärsijöitä on jopa tuhansia tavallisia kansalaisia ja erillisten oikeudenkäyntien kulut olisivat kohtuuttoman suuret henkilöä kohden. [5]
+
+Katso myös
+Ryhmävalitus

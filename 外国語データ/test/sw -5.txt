@@ -1,0 +1,13 @@
+FishBase är ett globalt informationssystem och uppslagsverk om all världens fiskar. 
+I december 2019 fanns uppgifter om närmare 34 300 fiskarter, 326 500 populärnamn, 59 900 bilder, och 56 700 litteraturreferenser.
+
+FishBase är förankrat i ett konsortium bestående av Naturhistoriska riksmuseet (Stockholm), Aristotelesuniversitetet (Thessaloníki), WorldFish Center (George Town, Pinang), FN:s livsmedels- och jordbruksorganisation (Rom), Fisheries Centre, University of British Columbia (Vancouver), Helmholtz-Zentrum für Ozeanforschung (Kiel), Muséum national d'histoire naturelle (Paris), Museum voor Midden-Afrika (Tervuren), och Zhōngguó shuǐchǎn Kēxuéyánjiūyuàn, den kinesiska akademin för fiskevetenskap (Peking). Konsortiet följer utvecklingen av FishBase och är strategiskt rådgivande.
+
+FishBase bygger på ett system utvecklat av den franska marinbiologen Daniel Pauly och tyska biologen Rainer Froese på 1980-talet. 
+Tanken var att bygga en databas med relevant information för fiskeribiologer i utvecklingsländer. 
+Under 1990-talet växte projektet och FishBase innehåller nu all slags information om alla fiskar. 
+Grundtanken är densamma – att utan kostnad för användaren tillahandahålla strukturerad information om fiskar – och även om användargruppen växt är i synnerhet fiskeribiologer i utvecklingsländer fortfarande en viktig målgrupp.
+
+FishBase databas bygger på publicerad information, och referensen lagras ihop med data. 
+För datainmatningen svarar i synnerhet WorldFish personal i Los Baños i Filippinerna, men forskare och andra fiskintresserade världen över bidrar i hög grad till att bygga databasen. 
+I juni 2014 fanns 2130 medarbetare registrerade.

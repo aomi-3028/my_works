@@ -1,0 +1,19 @@
+Informatik und Mathematik 
+Algorithmen sind eines der zentralen Themen der Informatik und Mathematik. Sie sind Gegenstand einiger Spezialgebiete der theoretischen Informatik, der Komplexitätstheorie und der Berechenbarkeitstheorie, mitunter ist ihnen ein eigener Fachbereich Algorithmik oder Algorithmentheorie gewidmet. In Form von Computerprogrammen und elektronischen Schaltkreisen steuern Algorithmen Computer und andere Maschinen.
+
+Algorithmus und Programme
+Für Algorithmen gibt es unterschiedliche formale Repräsentationen. Diese reichen vom Algorithmus als abstraktem Gegenstück zum konkret auf eine Maschine zugeschnittenen Programm (das heißt, die Abstraktion erfolgt hier im Weglassen der Details der realen Maschine, das Programm ist eine konkrete Form des Algorithmus, angepasst an die Notwendigkeiten und Möglichkeiten der realen Maschine) bis zur Ansicht, Algorithmen seien gerade die Maschinenprogramme von Turingmaschinen (wobei hier die Abstraktion in der Verwendung der Turingmaschine an sich erfolgt, das heißt, einer idealen mathematischen Maschine).
+
+Algorithmen können in Programmablaufplänen nach DIN 66001 oder ISO 5807 grafisch dargestellt werden.
+
+Erster Computeralgorithmus
+Der erste für einen Computer gedachte Algorithmus (zur Berechnung von Bernoullizahlen) wurde 1843 von Ada Lovelace in ihren Notizen zu Charles Babbages Analytical Engine festgehalten. Sie gilt deshalb als die erste Programmiererin. Weil Charles Babbage seine Analytical Engine nicht vollenden konnte, wurde Ada Lovelaces Algorithmus nie darauf implementiert.
+
+Heutige Situation
+
+Prinzipbild des Rete-Algorithmus für Expertensystem; veröffentlicht: 1979; frei
+Algorithmen für Computer sind heute so vielfältig wie die Anwendungen, die sie ermöglichen sollen. Vom elektronischen Steuergerät für den Einsatz im KFZ über die Rechtschreib- und Satzbau-Kontrolle in einer Textverarbeitung bis hin zur Analyse von Aktienmärkten finden sich tausende von Algorithmen. Hinsichtlich der Ideen und Grundsätze, die einem Computerprogramm zugrunde liegen, wird einem Algorithmus in der Regel urheberrechtlicher Schutz versagt.[5] Je nach nationaler Ausgestaltung der Immaterialgüterrechte sind Algorithmen der Informatik jedoch dem Patentschutz zugänglich, so dass urheberrechtlich freie individuelle Werke, als Ergebnis eigener geistiger Schöpfung, wirtschaftlich trotzdem nicht immer frei verwertet werden können. Dies betrifft oder betraf z. B. Algorithmen, die auf der Mathematik der Hough-Transformation (Jahrzehnte alt, aber mehrfach aktualisiertes Konzept mit Neu-Anmeldung) aufbauen, Programme, die das Bildformat GIF lesen und schreiben wollten, oder auch Programme im Bereich der Audio- und Video-Verarbeitung, da die zugehörigen Algorithmen, wie sie in den zugehörigen Codecs umgesetzt sind, oftmals nicht frei verfügbar sind. Die entsprechenden Einsparpotentiale für alle Anwender weltweit (für den Rete-Algorithmus wurde einst eine Million USD auf DEC XCON genannt) dürften heute problemlos die Grenze von einer Milliarde USD im Jahr um ein Zigfaches überschreiten.
+
+Abgrenzung zur Heuristik
+→ Hauptartikel: Heuristik
+Der Übergang zwischen Algorithmus und Heuristik ist fließend: Eine Heuristik ist eine Methode, aus unvollständigen Eingangsdaten zu möglichst sinnvollen Ergebnissen zu gelangen. Viele heuristische Vorgehensweisen sind selbst exakt definiert und damit Algorithmen. Bei manchen ist jedoch nicht in jedem Schritt genau festgelegt, wie vorzugehen ist – der Anwender muss „günstig raten“. Sie können nicht (vollständig) als Algorithmus formuliert werden.

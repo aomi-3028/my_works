@@ -1,0 +1,16 @@
+Symbolische und nicht-symbolische Ansätze
+Beim maschinellen Lernen spielen Art und Mächtigkeit der Wissensrepräsentation eine wichtige Rolle. Man unterscheidet zwischen symbolischen Ansätzen, in denen das Wissen – sowohl die Beispiele als auch die induzierten Regeln – explizit repräsentiert ist, und nicht-symbolischen Ansätzen, wie neuronalen Netzen, denen zwar ein berechenbares Verhalten „antrainiert“ wird, die jedoch keinen Einblick in die erlernten Lösungswege erlauben; hier ist Wissen implizit repräsentiert.[3]
+
+Bei den symbolischen Ansätzen werden aussagenlogische und prädikatenlogische Systeme unterschieden. Vertreter der ersteren sind ID3 und sein Nachfolger C4.5. Letztere werden im Bereich der induktiven logischen Programmierung entwickelt.
+
+Algorithmische Ansätze
+Die praktische Umsetzung geschieht mittels Algorithmen. Verschiedene Algorithmen aus dem Bereich des maschinellen Lernens lassen sich grob in drei Gruppen einteilen:[4] überwachtes Lernen (englisch supervised learning), unüberwachtes Lernen (englisch unsupervised learning) und bestärkendes Lernen (engl. reinforcement learning).
+
+Überwachtes Lernen
+Der Algorithmus lernt eine Funktion aus gegebenen Paaren von Ein- und Ausgaben. Dabei stellt während des Lernens ein „Lehrer“ den korrekten Funktionswert zu einer Eingabe bereit. Ziel beim überwachten Lernen ist, dass dem Netz nach mehreren Rechengängen mit unterschiedlichen Ein- und Ausgaben die Fähigkeit antrainiert wird, Assoziationen herzustellen. Ein Teilgebiet des überwachten Lernens ist die automatische Klassifizierung. Ein Anwendungsbeispiel wäre die Handschrifterkennung.
+
+Es lassen sich noch einige Unterkategorien für Überwachtes Lernen identifizieren, die in der Literatur häufiger erwähnt werden:
+
+Teilüberwachtes Lernen (englisch semi-supervised learning) Nur für einen Teil der Eingaben sind die dazugehörigen Ausgaben bekannt.[5]
+Aktives Lernen (englisch active learning) Der Algorithmus hat die Möglichkeit, für einen Teil der Eingaben die korrekten Ausgaben zu erfragen. Dabei muss der Algorithmus die Fragen bestimmen, welche einen hohen Informationsgewinn versprechen, um die Anzahl der Fragen möglichst klein zu halten.[6]
+Selbständiges Lernen (englisch self-training) Dieser Algorithmus kann in zwei wesentliche Komponenten eingeteilt werden. Die erste Algorithmuskomponente (Lehrer) leitet aus einem bestehenden gelabelten Datensatz weitere Datensätze mit Pseudolabeln her. Die zweite Algorithmuskomponente lernt nun aus dem erweiterten gelabelten Datensatz und wendet gefundene Muster für ihr eigenes Modell an.[7]

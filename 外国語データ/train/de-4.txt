@@ -1,0 +1,45 @@
+Definition
+Turingmaschinen und Algorithmusbegriff
+Der Mangel an mathematischer Genauigkeit des Begriffs Algorithmus störte viele Mathematiker und Logiker des 19. und 20. Jahrhunderts, weswegen in der ersten Hälfte des 20. Jahrhunderts eine ganze Reihe von Ansätzen entwickelt wurde, die zu einer genauen Definition führen sollten. Eine zentrale Rolle nimmt hier der Begriff der Turingmaschine von Alan Turing ein. Weitere Formalisierungen des Berechenbarkeitsbegriffs sind die Registermaschinen, der Lambda-Kalkül (Alonzo Church), rekursive Funktionen, Chomsky-Grammatiken (siehe Chomsky-Hierarchie) und Markow-Algorithmen.
+
+Es wurde – unter maßgeblicher Beteiligung von Alan Turing selbst – gezeigt, dass all diese Methoden die gleiche Berechnungsstärke besitzen (gleich mächtig sind). Sie können durch eine Turingmaschine emuliert werden, und sie können umgekehrt eine Turingmaschine emulieren.
+
+Formale Definition
+Mit Hilfe des Begriffs der Turingmaschine kann folgende formale Definition des Begriffs formuliert werden:
+
+„Eine Berechnungsvorschrift zur Lösung eines Problems heißt genau dann Algorithmus, wenn eine zu dieser Berechnungsvorschrift äquivalente Turingmaschine existiert, die für jede Eingabe, die eine Lösung besitzt, stoppt.“
+
+Eigenschaften des Algorithmus
+Aus dieser Definition sind folgende Eigenschaften eines Algorithmus ableitbar:
+
+Das Verfahren muss in einem endlichen Text eindeutig beschreibbar sein (Finitheit).
+Jeder Schritt des Verfahrens muss tatsächlich ausführbar sein (Ausführbarkeit).
+Das Verfahren darf zu jedem Zeitpunkt nur endlich viel Speicherplatz benötigen (Dynamische Finitheit, siehe Platzkomplexität).
+Das Verfahren darf nur endlich viele Schritte benötigen (Terminierung, siehe auch Zeitkomplexität).
+Darüber hinaus wird der Begriff Algorithmus in praktischen Bereichen oft auf die folgenden Eigenschaften eingeschränkt:
+
+Der Algorithmus muss bei denselben Voraussetzungen das gleiche Ergebnis liefern (Determiniertheit).
+Die nächste anzuwendende Regel im Verfahren ist zu jedem Zeitpunkt eindeutig definiert (Determinismus).
+Church-Turing-These
+Die Church-Turing-These besagt, dass jedes intuitiv berechenbare Problem durch eine Turingmaschine gelöst werden kann. Als formales Kriterium für einen Algorithmus zieht man die Implementierbarkeit in einem beliebigen, zu einer Turingmaschine äquivalenten Formalismus heran, insbesondere die Implementierbarkeit in einer Programmiersprache – die von Church verlangte Terminiertheit ist dadurch allerdings noch nicht gegeben.
+
+Der Begriff der Berechenbarkeit ist dadurch dann so definiert, dass ein Problem genau dann berechenbar ist, wenn es einen (terminierenden) Algorithmus zu dem Problem gibt, das heißt, wenn eine entsprechend programmierte Turingmaschine das Problem in endlicher Zeit lösen könnte.
+
+Es sei bemerkt, dass die Ambiguität des Begriffs „intuitiv berechenbares Problem“ den mathematischen Beweis dieser These unmöglich macht. Es ist also theoretisch denkbar, dass intuitiv berechenbare Probleme existieren, die nach dieser Definition nicht als „berechenbar“ gelten. Bis heute wurde jedoch noch kein solches Problem gefunden.[3]
+
+Abstrakte Automaten
+Turingmaschinen harmonieren gut mit den ebenfalls abstrakt-mathematischen berechenbaren Funktionen, reale Probleme sind jedoch ungleich komplexer, daher wurden andere Maschinen vorgeschlagen.
+
+Diese Maschinen weichen etwa in der Mächtigkeit der Befehle ab; statt der einfachen Operationen der Turingmaschine können sie teilweise mächtige Operationen, wie etwa Fourier-Transformationen, in einem Rechenschritt ausführen.
+
+Oder sie beschränken sich nicht auf eine Operation pro Rechenschritt, sondern ermöglichen parallele Operationen, wie etwa die Addition zweier Vektoren in einem Schritt.
+
+Ein Modell einer echten Maschine ist die Sequential Abstract State Machine (kurz seq. ASM)[4] mit folgenden Eigenschaften:
+
+Ein Algorithmus einer seq. ASM soll
+
+durch einen endlichen Programmtext spezifiziert werden können
+schrittweise ausgeführt werden können
+für bestimmte Zustände terminieren, muss aber nicht immer terminieren (sinnvolle Gegenbeispiele für die Forderung, dass immer terminiert werden muss, wären etwa ein Programm, das fortgesetzt Primzahlen findet, oder ein Betriebssystem)
+nur begrenzt viele Zustände pro Schritt ändern können (Begrenzung der Parallelität)
+nur begrenzt viele Zustände pro Schritt inspizieren können (Begrenzung der Exploration).

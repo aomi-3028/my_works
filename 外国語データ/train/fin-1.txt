@@ -1,0 +1,66 @@
+Microsoft Windows
+Siirry navigaatioonSiirry hakuun
+Microsoft Windows
+Windows logo and wordmark - 2021.svg
+Kehittäjä	Microsoft
+Ohjelmointikielet	Assembly, C ja C++ [1]
+Tuoteperhe	Windows NT ja MS-DOS
+Toiminnallinen tila	Viimeisin
+Julkaistu	Windows 1.0
+20. marraskuuta 1985
+Viimeisin vakaa versio	Windows 11 (5. lokakuuta 2021)
+Tuetut kielet	137 kieltä, myös suomi.[2]
+Ytimen tyyppi	Windows NT perhe: Hybridiydin
+Windows 9x ja aikaisemmat: Monoliittinen ydin (MS-DOS)
+Suoritintuki	ARM
+IA-32
+Intel Itanium
+AMD64
+Käyttöliittymä	Graafinen käyttöliittymä
+Lisenssi	Microsoft EULA
+Aiheesta muualla
+windows.microsoft.com
+Microsoft Windows on IBM PC -yhteensopiville tarkoitettujen graafisten käyttöliittymien ja käyttöjärjestelmien perhe, jonka Microsoft esitteli vuonna 1985. Se on maailman käytetyin henkilökohtaisten tietokoneiden käyttöjärjestelmä, ja se toimitetaan nykyään tavallisesti pakettina ostetun tietokonelaitteiston mukana valmiiksi asennettuna. Perheeseen kuuluvat myös Windows CE-, Pocket PC-, Windows Mobile- ja Windows Phone -käyttöjärjestelmät.
+
+
+Sisällys
+1	Historia
+2	Markkinaosuus
+3	Windowsin versiot ja jakelut
+3.1	MS-DOS:iin pohjautuvat
+3.2	Windows NT
+3.3	Windows CE
+4	Emulointi
+5	Lähteet
+6	Aiheesta muualla
+Historia
+Windows kehitettiin alun perin MS-DOSin käyttöliittymäksi, ohjelmaksi, jolla pyrittiin helpottamaan IBM:n valmistamien IBM PC -koneiden ja yhteensopivien henkilökohtaisten tietokoneiden käyttöä. Ensimmäinen versio julkaistiin vuonna 1985. Tarkoituksena oli parantaa niiden kilpailumahdollisuuksia Applen Macintosh-koneita vastaan. Yhteistyötä tehtiin paljon IBM:n kanssa, ja Microsoft oli kehittämässä IBM:n OS/2-käyttöjärjestelmää. Windows 3.0:n julkaisun jälkeen Microsoft sanoutui irti OS/2-yhteistyöstä.[3]
+
+Windows tarkoittaa ikkunoita. Graafisista käyttöjärjestelmistä käytettiin 1980-luvulla monesti nimeä ikkunointijärjestelmä (engl. windowing system), koska niissä oli siirreltäviä ”ikkunoita”. Windowsin kehitysvaiheessa siitä käytettiin nimityksiä Interface Manager ja Interface Office Manager, kunnes nimeksi valittiin Microsoft Windows.[4]
+
+Microsoft oli lisensoinut graafisen käyttöliittymän elementtejä Xeroxilta Windowsiin.[5] Myöhemmin Microsoft sai varhaisen version Macintoshista ennen sen julkaisua.[5] Windows 1.0:n käyttöliittymässä oli useita elementtejä, jotka olivat identtisiä Macintoshin vastaaviin.[5] Seurauksena Apple Computer haastoi Microsoftin oikeuteen käyttöliittymänsä ulkoasun kopioinnista maaliskuussa 1988.[5] Juttu päättyi Microsoftin eduksi vuonna 1993.[5] Kesken jutun Xerox haastoi Applen oikeuteen graafisen käyttöliittymän kopioinnista.[6]
+
+Windows mahdollisti myös tietokoneen koko muistin hyödyntämisen MS-DOSin 640 kiB:n rajoituksen sijaan. Vähitellen DOS-ohjelmat alkoivat siirtyä graafiseen ympäristöön. Vuonna 1995 julkaistu Windows 95 oli seuraava askel: se uudisti muun muassa käyttöliittymän ja mahdollisti pitkien (yli 8-merkkisten) tiedostonimien käytön. Windows 95:lle julkaistu DirectX-rajapinta mahdollisti viimein myös pelien siirtymisen Windows-ympäristöön. Windows-käyttöjärjestelmäpakettiin lisättiin uusien versioiden myötä kiinteästi kytkettyjä sovellusohjelmia, kuten Internet Explorer ja Windows Media Player.
+
+
+Microsoft muutti käyttöliittymänsä ulkoasua merkittävästi Windows 10 -versiossa. Kuvassa ulkoasun konseptisuunnitelma, eikä käyttäjälle näkyvä lopullinen versio.
+Microsoft aloitti vuonna 1988 Windows NT:n kehityksen: käyttöjärjestelmä perustui paljolti VMS-käyttöjärjestelmään DEC:lta palkatun pääsuunnittelija David Cutlerin ja hänen ryhmänsä johdosta.[3] Windows NT julkaistiin huhtikuussa 1993.[3] Ensimmäisen version versionumeroksi tuli suoraan 3.1, koska OS/2 oli tuolloin jo versiossa 3. Ensimmäiset versiot eivät menestyneet, ja laajalti käytetty tuli vasta Windows NT 4.0:sta. NT suunniteltiin vakautta vaativiin työasemiin ja palvelimiin. Koska se ei tarvinnut alleen 16-bittistä DOS-käyttöjärjestelmää, se pystyi käyttämään täysipainoisesti hyväkseen Intelin 32-bittisten x86-suorittimien muistinsuojaus- ja moniajo-ominaisuuksia. Käyttöjärjestelmä siirrettiin myös MIPS-, Alpha- ja PowerPC-suorittimille. NT tuki myös moniprosessorointia.
+
+Windowsista julkaistiin ensimmäinen kannettaviin pienlaitteisiin tarkoitettu Windows CE -versio vuonna 1996.
+
+Microsoft oli jo pitkään yrittänyt sulauttaa yritys- ja kotikäyttäjien Windowseja yhteen, mutta se tapahtui vasta vuonna 2001, kun julkaistiin Windows Me:n ja Windows 2000:n seuraaja, NT-teknologiaan pohjautuva Windows XP. Sen jälkeen pidettiin muutaman vuoden tauko, kunnes julkaistiin Windows Vista vuonna 2007. Kaksi vuotta myöhemmin julkaistiin Windows 7. Vuonna 2012 julkaistiin Windows 8 ja seuraavana vuonna päivitys Windows 8.1.
+
+Vuonna 2010 Microsoft ilmoitti Itanium-suorittimien tuen päättymisestä: Windows Server 2008 R2 oli viimeinen versio, joka tuki Itaniumia.[7]
+
+Heinäkuussa 2015 Microsoft julkaisi Windows 10 -version.[8]
+
+Microsoft on aiemmin ilmoittanut julkaisevansa Windows 10X -version, jonka julkaisu on myöhemmin peruttu.[9] Uuden version ei ollut tarkoitus korvata Windows 10:aa pöytätietokoneissa, vaan se oli tarkoitettu lähinnä kannettaviin ja muihin pienikokoisiin laitteisiin, vähin poikkeuksin.[10]
+
+Windows 10:n seuraaja Windows 11 julkaistiin 5. lokakuuta 2021 ja Windows 10:n joidenkin versioiden tuki päättyy vuonna 2025: aiemmin Microsoft on kertonut yhtiön siirtyvän Software as a Service -malliin ja Windows 10:n olevan "viimeinen Windows". Windows 11:n uudet ominaisuudet perustuvat laajalti perutun Windows 10X:n kehitystyöhön.[11]
+
+Markkinaosuus
+Sen markkinaosuus oli 77,12 prosenttia työpöytäkäytössä henkilökohtaisten tietokoneiden käyttöjärjestelmistä vuonna 2014.[12]
+
+Vuonna 2020 Windows oli suosituin käyttöjärjestelmä työpöytäkäytössä IDC:n ilmoittamana.[13] Käyttöjärjestelmän osuus oli 80,5 % kun Chrome OS:llä oli 10,8 % ja macOS:llä 7,5 % osuus.[13] Määrä perustuu myytävissä tietokoneissa (kannettavat, pöytäkoneet ja työasemat) mukana olevaan käyttöjärjestelmään.[14] Vuonna 2021 verkkosivustojen kävijämäärien mukaan Windowsin osuus työpöytäkäytössä oli 75,5 % StatCounterin ilmoittamana[15] StatCounter käyttää seurantaan osallistuvien verkkosivustojen kävijämääriä tuloksissa selainten ilmoittamien tietojen mukaan.[16]
+
+Verkkosivujen palvelimista Windowsia on käytetty 28,9 prosentissa.[17]
